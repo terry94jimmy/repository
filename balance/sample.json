@@ -1,0 +1,94 @@
+{
+  "devops@vd002-14.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd002-15.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd002-16.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd003-8.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd003-9.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd003-10.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd004-8.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd006-9.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd006-10.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd006-11.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd006-12.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd006-13.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd007-16.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd007-17.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd008-6.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd008-7.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd009-14.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd009-16.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd012-10.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd012-11.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd004-17.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd004-18.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  },
+  "devops@vd009-17.onaliyun.com": {
+    "ACCESS_KEY_ID": "xxxx",
+    "SECERT_KEY": "xxxx"
+  }
+}

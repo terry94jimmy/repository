@@ -1,0 +1,25 @@
+Balance Report - 2024-11-23_08-02-23
+----------------------------
+devops@vd002-14.onaliyun.com: 5,660.97
+devops@vd002-15.onaliyun.com: 0.00
+devops@vd002-16.onaliyun.com: 
+devops@vd003-8.onaliyun.com: 8,802.27
+devops@vd003-9.onaliyun.com: 5,004.53
+devops@vd003-10.onaliyun.com: 6,352.32
+devops@vd004-8.onaliyun.com: 5,642.66
+devops@vd006-9.onaliyun.com: 4,367.02
+devops@vd006-10.onaliyun.com: 4,100.01
+devops@vd006-11.onaliyun.com: 7,283.48
+devops@vd006-12.onaliyun.com: 3,030.00
+devops@vd006-13.onaliyun.com: 3,000.00
+devops@vd007-16.onaliyun.com: 3,321.92
+devops@vd007-17.onaliyun.com: 6,051.74
+devops@vd008-6.onaliyun.com: 30,916.92
+devops@vd008-7.onaliyun.com: 8,367.72
+devops@vd009-14.onaliyun.com: 4,212.11
+devops@vd009-16.onaliyun.com: 3,573.98
+devops@vd012-10.onaliyun.com: 5,159.09
+devops@vd012-11.onaliyun.com: 4,033.58
+devops@vd004-17.onaliyun.com: 6,685.89
+devops@vd004-18.onaliyun.com: 3,142.94
+devops@vd009-17.onaliyun.com: 2,716.42

@@ -1,6 +1,6 @@
-account: Daikin79	 Instance ID: ins-r3p7oabq	 Instance Name: 遠端windows機(廣州)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-guangzhou-6
-account: Daikin79	 Instance ID: ins-5mzoy951	 Instance Name: 遠端windows機(上海)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-shanghai-5
-account: Daikin79	 Instance ID: ins-ibtocg7f	 Instance Name: 遠端windows機(新北京)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-beijing-6
-account: Daikin79	 Instance ID: ins-3rpfc3pi	 Instance Name: HK-devops	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-hongkong-2
-account: Daikin79	 Instance ID: ins-dyprnkyu	 Instance Name: DEVOPS-8499	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-hongkong-3
-account: Daikin79	 Instance ID: ins-jmdfg06g	 Instance Name: 遠端windows機(南京)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-nanjing-1
+account: Daikin79	 Instance ID: in-xxxx	 Instance Name: 遠端windows機(廣州)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-guangzhou-6
+account: Daikin79	 Instance ID: in-xxxx	 Instance Name: 遠端windows機(上海)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-shanghai-5
+account: Daikin79	 Instance ID: in-xxxx	 Instance Name: 遠端windows機(新北京)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-beijing-6
+account: Daikin79	 Instance ID: in-xxxx	 Instance Name: HK-devops	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-hongkong-2
+account: Daikin79	 Instance ID: in-xxxx	 Instance Name: DEVOPS-8499	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-hongkong-3
+account: Daikin79	 Instance ID: in-xxxx	 Instance Name: 遠端windows機(南京)	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-nanjing-1

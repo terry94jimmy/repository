@@ -1,7 +1,7 @@
 #!/bin/bash
 
-JSON="output.json"
-#REGIONS=("ap-guangzhou" "ap-shanghai" "ap-beijing" "ap-hongkong" "ap-singapore")
+JSON="/home/user/git/jimmytest/test/ten/ten.json"
+REGIONS=("ap-guangzhou" "ap-shanghai" "ap-beijing" "ap-hongkong" "ap-singapore")
 
 
 if [[ ! -f $JSON ]]; then
@@ -25,7 +25,7 @@ while read key secretid secretkey;do
     echo "account check $key"
 
 
-        clb_list=$(tccli clb DescribeLoadBalancers --output json | jq -r '.LoadBalancerSet[] | "\(.LoadBalancerId) \(.LoadBalancerName) \(.LoadBalancerType) \(.TargetRegionInfo.Region)"')
+        clb_list=$(tccli clb DescribeLoadBalancers --region $REGIONS --output json | jq -r '.LoadBalancerSet[] | "\(.LoadBalancerId) \(.LoadBalancerName) \(.LoadBalancerType) \(.TargetRegionInfo.Region)"')
     while read -r LoadBalancerId LoadBalancerName LoadBalancerType Region; do
         if [[ -z "$LoadBalancerId" || -z "$LoadBalancerName" || -z "$LoadBalancerType" || -z "$Region" ]]; then
             echo "Skipping empty load balancer entry"

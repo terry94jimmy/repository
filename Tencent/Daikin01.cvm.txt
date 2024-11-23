@@ -1,1 +1,0 @@
-account: Daikin01	 Instance ID: in-xxxx	 Instance Name: windows	 Status: RUNNING	 IP: ["x.x.x.x"]	 Region: ap-beijing-6

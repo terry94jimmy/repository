@@ -1,1 +1,0 @@
-account: Daikin24	 Instance ID: in-xxxx	 Instance Name: squpro-t01	 Status: STOPPED	 IP: ["x.x.x.x"]	 Region: ap-guangzhou-6

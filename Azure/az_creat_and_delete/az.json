@@ -1,0 +1,40 @@
+{
+  "AZ": {
+    "CLIENT_ID": "xxxx",
+    "CLIENT_SECRET": "xxxx",
+    "TENANT_ID": "xxxx",
+    "SUBSCRIPTION_ID": "xxxx",
+    "FRONTDOORS": [
+      {
+        "profile_name1": "passgfw-middle-page-prod",
+        "endpoint1": "pfw-m-prod-tpo-a0f7fvfjhefqhnb8.z01.azurefd.net",
+        "route_endpoint1": "pfw-m-prod-tpo",
+        "route_name1": "pfw-m-prod-tpo-route"
+      },
+      {
+        "profile_name2": "passgfw-middle-page-prod-2",
+        "endpoint2": "pfw-m-prod-tpo-2-efhfhad6bthyczhh.z01.azurefd.net",
+        "route_endpoint2": "pfw-m-prod-tpo-2",
+        "route_name2": "pfw-m-prod-tpo-2-route"
+      },
+      {
+        "profile_name3": "passgfw-middle-page-fix01",
+        "endpoint3": "pfw-m-fix01-cvb0cqgag4chcme7.a02.azurefd.net",
+        "route_endpoint3": "pfw-m-fix01",
+        "route_name3": "pfw-m-fix01-route"
+      },
+      {
+        "profile_name4": "passgfw-middle-page-fix02",
+        "endpoint4": "pfw-m-fix02-gxaxgzd4ahf4d5dr.a02.azurefd.net",
+        "route_endpoint4": "pfw-m-fix02",
+        "route_name4": "pfw-m-fix02-route"
+      },
+      {
+        "profile_name5": "vd001ProdtoNode-entrance",
+        "endpoint5": "va1npfd-adhphfgcfgamfver.a02.azurefd.net",
+        "route_endpoint5": "va1npfd",
+        "route_name5": "default-route"
+      }
+    ]
+  }
+}

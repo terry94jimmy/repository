@@ -1,7 +1,7 @@
 ## 新增與移除域名及注意事項
 
 ### 範例業務
-- [業務連結 IN-53790](https://innotech.atlassian.net/browse/IN-53790)
+- [業務連結 IN-53790]
 
 可選擇的路由如下：
 - `fevaop1` 及 `vd003op1` 可以選擇：
@@ -55,8 +55,7 @@
 
 2. **新增和刪除域名以及健康檢查工具**
    - `az_creat_domain.sh`：新增域名並關聯路由
-   - `az_delete_domain.sh`：(需先手動解除關聯後)刪除域名
-     - [也能使用paul哥腳本](https://gitlab.service-hub.tech/devops/cronjob/-/tree/master/delete_azure_afd?ref_type=heads)   
+   - `az_delete_domain.sh`：(需先手動解除關聯後)刪除域名 
    - `health_check.sh` ：檢查創建完成後是否生效
 
 3. **域名配置**
